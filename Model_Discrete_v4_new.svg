@@ -78,6 +78,9 @@
                 <text x="-25.008px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:rgb(117,117,117);">Exposed</text>
                 <text x="-16.002px" y="12px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:rgb(117,117,117);">Other</text>
             </g>
+            <g transform="matrix(2,0,0,2,334.332,-76.916)">
+                <text x="-58.348px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:rgb(117,117,117);">Exposed by Infected</text>
+            </g>
             <g transform="matrix(1,0,0,1,-52.7352,-356.605)">
                 <g transform="matrix(1,0,0,1,-2.02992,0)">
                     <g transform="matrix(1,0,0,1,291.559,-129.463)">
@@ -484,8 +487,11 @@
                 <text x="-42.021px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:rgb(117,117,117);">False Negative</text>
                 <text x="-54.993px" y="12px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:rgb(117,117,117);">(undiagnosed Mild)</text>
             </g>
-            <g transform="matrix(2,0,0,2,354.036,22.0759)">
+            <g transform="matrix(2,0,0,2,395.642,-230.668)">
                 <text x="-39.68px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:rgb(117,117,117);">True Negative</text>
+            </g>
+            <g transform="matrix(2,0,0,2,630.185,-185.206)">
+                <text x="-34.526px" y="0px" style="font-family:'Helvetica';font-size:9px;fill:rgb(117,117,117);">Incubation period</text>
             </g>
             <g transform="matrix(1,0,0,1,53.4167,47.755)">
                 <path d="M532.5,176.26L525.5,162.26L532.5,165.76L539.5,162.26L532.5,176.26Z" style="fill:rgb(117,117,117);fill-rule:nonzero;stroke:rgb(117,117,117);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
@@ -505,7 +511,7 @@
             <g transform="matrix(-1,-1.46234e-16,1.46234e-16,-1,1007.58,34.7361)">
                 <path d="M532.5,176.26L525.5,162.26L532.5,165.76L539.5,162.26L532.5,176.26Z" style="fill:rgb(117,117,117);fill-rule:nonzero;stroke:rgb(117,117,117);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
             </g>
-            <g transform="matrix(-1,-1.46234e-16,1.46234e-16,-1,701.262,64.0646)">
+            <g transform="matrix(-2.07466e-16,1,-1,-2.07466e-16,407.158,-784.78)">
                 <path d="M532.5,176.26L525.5,162.26L532.5,165.76L539.5,162.26L532.5,176.26Z" style="fill:rgb(117,117,117);fill-rule:nonzero;stroke:rgb(117,117,117);stroke-width:2px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
             </g>
             <g transform="matrix(0.0174033,-0.999849,0.999849,0.0174033,142.255,134.242)">
@@ -890,7 +896,7 @@
                     <circle cx="684.627" cy="299.424" r="15.102" style="fill:rgb(117,117,117);fill-opacity:0.2;stroke:rgb(117,117,117);stroke-width:2px;"/>
                 </g>
             </g>
-            <g transform="matrix(1,0,0,1,-15.7973,-340.192)">
+            <g transform="matrix(1,0,0,1,22.5472,-587.265)">
                 <g transform="matrix(2,0,0,2,478.321,362.662)">
                     <text x="-3.164px" y="0px" style="font-family:'Helvetica';font-size:19px;fill:rgb(117,117,117);">-</text>
                 </g>
@@ -916,8 +922,8 @@
             <g transform="matrix(1,0,0,1,-156,-1130.5)">
                 <path d="M329.662,859.786L329.662,745.756C329.662,739.502 334.731,734.433 340.985,734.433C375.146,734.433 474.853,734.433 474.853,734.433" style="fill:none;stroke:rgb(117,117,117);stroke-opacity:0.7;stroke-width:2px;"/>
             </g>
-            <g transform="matrix(1,0,0,1,-156,-1130.5)">
-                <path d="M714.401,1140.94L714.401,1151.04C714.401,1155.9 710.464,1159.84 705.608,1159.84C652.837,1159.84 378.874,1159.84 331.883,1159.84C330.063,1159.84 328.317,1159.11 327.03,1157.83C325.743,1156.54 325.02,1154.79 325.02,1152.97C325.02,1124.57 325.02,1017.66 325.02,1017.66" style="fill:none;stroke:rgb(117,117,117);stroke-width:2px;"/>
+            <g transform="matrix(1,0,0,1,44,-430.5)">
+                <path d="M541.134,127.934L541.134,177.955L195.731,177.955" style="fill:none;stroke:rgb(117,117,117);stroke-width:2px;"/>
             </g>
             <g transform="matrix(1,0,0,1,-156,-1130.5)">
                 <path d="M872.075,1185.26L872.075,1249.98C872.075,1252.63 873.129,1255.17 875.006,1257.05C876.883,1258.93 879.428,1259.98 882.083,1259.98C895.484,1259.98 919.195,1259.98 933.227,1259.98C939.471,1259.98 944.534,1265.05 944.534,1271.29L944.534,1325.88" style="fill:none;stroke:rgb(117,117,117);stroke-width:2px;"/>
